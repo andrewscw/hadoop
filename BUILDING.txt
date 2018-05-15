@@ -1,5 +1,6 @@
 Build instructions for Hadoop
 
+Testing
 ----------------------------------------------------------------------------------
 Requirements:
 
